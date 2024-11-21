@@ -6,30 +6,24 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=500&height=60&lines=Aspiring+Software+Engineer;Backend+%2B+Frontend;Information+Systems" alt="Typing SVG" /></a>
 </p>
 <br>
-<br>
-<br>
-<br>
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,py,js,ts,php,bash,mysql&theme=light" />
   </a>
 </p>
-<br>
 <h3 align="center">Frameworks</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind,vuetify,nodejs,express,vite&theme=light" />
   </a>
 </p>
-<br>
 <h3 align="center">Databases</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,firebase,supabase,mongodb&theme=light" />
   </a>
 </p>
-<br>
 <h3 align="center">Cloud and DevOps</h3>
 <p align="center">
   <a href="https://skillicons.dev">
