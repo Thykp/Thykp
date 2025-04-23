@@ -9,25 +9,25 @@
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,py,js,ts,php,golang,bash,mysql&theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,py,js,ts,php,java,golang,bash,mysql&theme=light" />
   </a>
 </p>
 <h3 align="center">Frameworks</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vue,primevue,bootstrap,tailwind,vuetify,nodejs,express,gin,vite&theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vue,primevue,bootstrap,tailwind,vuetify,fastapi,flask,nodejs,express,spring,gin,vite&theme=light" />
   </a>
 </p>
 <h3 align="center">Databases</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,firebase,supabase,mongodb&theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,firebase,supabase,mongodb,postgresql,dynamodb,redis&theme=light" />
   </a>
 </p>
 <h3 align="center">Cloud and DevOps</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,vercel,aws,azure,gcp,docker,postman&theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,gitlab,vercel,aws,azure,gcp,docker,kubernetes,terraform,prometheus,grafana&theme=light" />
   </a>
 </p>
 
