@@ -12,22 +12,35 @@
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,py,js,ts,php,java,golang,bash,mysql&theme=light" />
   </a>
 </p>
-<h3 align="center">Frameworks</h3>
+<h3 align="center">Frontend</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vue,primevue,bootstrap,tailwind,vuetify,fastapi,flask,nodejs,express,spring,gin,vite&theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,vue,bootstrap,tailwind,shadcn,primevue,vuetify,zustand,webpack,vite&theme=light" />
+  </a>
+</p>
+<h3 align="center">Backend</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,flask,nodejs,express,hono,spring,gin,kafka,rabbitmq,ngrok,socketio&theme=light" />
   </a>
 </p>
 <h3 align="center">Databases</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,firebase,supabase,mongodb,postgresql,dynamodb,redis&theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,firebase,supabase,mongodb,postgresql,dynamodb,redis,dbeaver&theme=light" />
   </a>
 </p>
-<h3 align="center">Cloud and DevOps</h3>
+<h3 align="center">Cloud Platforms</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,githubactions,gitlab,vercel,aws,azure,gcp,docker,kubernetes,terraform,prometheus,grafana&theme=light" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=github,gitlab,vercel,aws,azure,gcp&theme=light" />
+  </a>
+</p>
+</p>
+<h3 align="center">DevOps and Site Reliability</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions,docker,kubernetes,terraform,jenkins,elasticsearch,sonarqube,snyk,prometheus,grafana&theme=light" />
   </a>
 </p>
 
